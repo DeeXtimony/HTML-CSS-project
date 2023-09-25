@@ -13,10 +13,10 @@ Welcome to HTML/CSS project. This project will contain a sleek and responsive we
 **Who is it for?**
 This project is Ideal for students and professionals wanting to boost their productivity , Pros who feels like gaining more knowledge and Job recruiter who would like to see my past engagement.
 
-Getting Started:
+**Getting Started:**
 Simply clone this repository and open index.html in your web browser
 
-Contributions:
+**Contributions:**
 I  welcome contributions and bug reports. Feel free to fork this project and submit pull requests."]
 
 Explore now and elevate your experience!
